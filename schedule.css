@@ -1,6 +1,6 @@
 body{
 font-family: "Marker Felt", "Comic Sans MS", fantasy;
-color: #003366;
+color: rgb(0,50,100);
 }
 h1 {
 font-size: 1.3em;
@@ -13,12 +13,12 @@ text-align: left;
 border-collapse: collapse;
 }
 tr {
-border: 1px solid #ffffff;
+border: 1px solid rgb(0,50,100);
 text-align: center;
-background-color:#9FB6CD;
+background-color:rgb(;
 }
 th {
 text-align: center;
-color: #ffffff;
-background-color: #003366;
+color: rgb(0,50,100);
+background-color: rgb(88,100,100);
 }
